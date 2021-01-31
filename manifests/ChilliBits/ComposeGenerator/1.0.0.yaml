@@ -1,0 +1,14 @@
+Id: ChilliBits.ComposeGenerator
+Version: 1.0.0
+Name: ComposeGenerator
+Publisher: ChilliBits
+License: Copyright (c) Marc Auberer - Apache 2.0 License
+LicenseUrl: https://github.com/marcauberer/compose-generator/blob/main/LICENSE
+Tags: docker, docker-compose, cli, generator
+Description: Compose Generator is an easy to use cli to generate Docker Compose YAML configuration files.
+Homepage: https://github.com/marcauberer/compose-generator
+Installers:
+  - Arch: x64
+    Url: https://github.com/marcauberer/compose-generator/releases/download/v1.0.0/compose-generator_1.0.0_amd64.exe
+    Sha256: A5542413B57E7BF35DF28D3D1A8F505E470CEA6D1D9875DFCBC88666A72F0AEA
+    InstallerType: Exe
